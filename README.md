@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mashiro1420&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mashiro1420&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mashiro1420&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
