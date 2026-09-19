@@ -1,4 +1,4 @@
-# Hi, I'm mashiro1420 👋
+# Hi, I'm Mark Do 👋
 
 > Software Developer | Go • Python • PHP • Vue • Angular
 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mashiro1420&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mashiro1420&show_icons=true&theme=tokyonight&count_private=true&custom_title=Mark%20Do%27s%20GitHub%20Stats" alt="GitHub Stats" />
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mashiro1420&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
